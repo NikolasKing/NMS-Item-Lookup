@@ -26,7 +26,17 @@
 
 **Статус проверки:** разработчик подтвердил запуск и работу готового ZIP в Windows и на втором компьютере. Точное окружение второго компьютера не документировано.
 
-**Стоимость:** бесплатно. Добровольная поддержка автора приветствуется, но необязательна; реквизиты для поддержки будут опубликованы отдельно.
+**Стоимость:** бесплатно. Добровольная поддержка автора приветствуется, но необязательна.
+
+### ❤️ Поддержать автора / Donate
+
+**USDT — только сеть TON (The Open Network).**
+
+```text
+UQAOxtn5uLMrQ2p7xxx_T5a8AT3Ck7ypnyhBJH9jtsFThndT
+```
+
+**Внимание:** отправляйте на этот адрес **только USDT в сети TON**. Не отправляйте через TRC20, ERC20, BEP20 или другие сети и не переводите другие монеты: средства могут быть потеряны. Перед отправкой сверьте адрес и сеть в своём кошельке. Поддержка полностью добровольная.
 
 **Контрольная сумма SHA-256 внешнего ZIP:**
 
@@ -62,7 +72,17 @@
 
 **Verification:** the author confirmed that the ZIP runs and works on Windows and on a second computer. The second computer's exact environment has not been documented.
 
-**Pricing:** free to use and share. Optional donations are welcome, but never required; support details may be added later.
+**Pricing:** free to use and share. Donations are entirely optional.
+
+### ❤️ Support the author / Donate
+
+**USDT — TON network (The Open Network) ONLY.**
+
+```text
+UQAOxtn5uLMrQ2p7xxx_T5a8AT3Ck7ypnyhBJH9jtsFThndT
+```
+
+**Warning:** send **USDT on the TON network only**. Do not use TRC20, ERC20, BEP20, or any other network, and do not send other coins. Funds may be lost if you use the wrong asset or network. Double-check the address and network in your wallet before sending. Donations are voluntary.
 
 **Outer ZIP SHA-256:**
 
